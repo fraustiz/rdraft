@@ -36,5 +36,10 @@
     "tailwindcss": "^4",
     "typescript": "^5",
     "vitest": "^5.0.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "proxy-addr": "2.0.8"
+    }
   }
 }
